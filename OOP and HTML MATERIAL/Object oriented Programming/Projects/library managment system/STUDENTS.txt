@@ -1,0 +1,11 @@
+18-NTU-CS-1030           		MUHAMMAD       		ABUBAKAR       		FAISALABAD               		COMPUTER-SCIENCE         		3.99 
+17-NTU-CS-1038           		HASEEB         		KHAN           		LAHORE                   		IT                       		3.99 
+18-NTU-CS-1050           		MUHAMMAD       		ABUBAKAR       		FSD                      		IT                       		3.99 
+18-NTU-CS-1047           		MUHAMMAD       		HAMZA          		FAISALABAD               		IT                       		3.99 
+18-NTU-CS-1046           		ALI            		KHAN           		FAISALABAD               		IT                       		3.99 
+18-NTU-CS-1045           		HASSAN         		ALI            		LAHORE                   		COMPUTER-SCIENCE         		3.99 
+18-NTU-CS-1049           		ALI            		KHAN           		FAISALABAD               		IT                       		3.99 
+18-NTUC-CS-1047          		HASEEB         		IMDAD          		Jhang                    		Computer_Science         		3.45 
+18-NTU-CS-1038           		SAAD_KHAN      		ASLAM_KHAN     		FSD                      		BSCS                     		2.4  
+234                      		w53v           		veg            		bt                       		3                        		$    
+21-NTU-CS-1284           		Usman          		Hussnain       		Faisalabad_Chiniot       		Computer_Science         		3    

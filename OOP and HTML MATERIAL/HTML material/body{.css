@@ -1,0 +1,23 @@
+body{
+    color: antiquewhite;
+    background:radial-gradient(red,green,blue)
+
+}
+h1{
+    color:seagreen;
+}
+th{
+    color: black;
+}
+td{
+    color: black;
+}
+p{
+    color:crimson;
+}
+label{
+    color: crimson;
+}
+a{
+    color: brown;
+}

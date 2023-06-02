@@ -1,0 +1,13 @@
+1           		C++-HOW-TO-MAKE-ANY-PROGRAM                                 		HASSAN         		KHAN           		IT-SERIES      		1200   		1200   		1199   
+4           		MATH                                                        		ALI            		KHAN           		IQ             		200    		300    		399    
+5           		URDU                                                        		ALI            		KHAN           		IQ             		200    		300    		399    
+3           		C++                                                         		HASSAN         		ALI            		200            		300    		400    		499    
+6           		C                                                           		HASSAN         		ALI            		IT             		300    		400    		500    
+7           		C++_PROGRAMMING                                             		HASSAN         		KHAN           		IT-SERIES      		400    		500    		44     
+9           		C++_HOW-TO-MAKE-ANY-PROGRAM-IN-C++_PROGRAMMING-LANGUAGE     		MUHAMMAD       		ABUBAKAR       		BOOKS-BAZAR    		12000  		12000  		12000  
+10          		C++                                                         		ALI            		KHAN           		IT-SERIES      		120    		230    		300    
+11          		C                                                           		ALI            		HASSAN         		IT             		500    		500    		5      
+12          		C#                                                          		WAQAR          		AHMAD          		IT             		1200   		400    		55     
+1000        		Mathematical_Methods                                        		Ali_Hassan     		Muhammad_Hamza 		IEEE           		3092   		234    		23     
+1342        		MATH                                                        		SAAD           		ASLAM          		IEEE           		200    		600    		3      
+1364        		DFZVF                                                       		F              		D              		FZDBRSE        		T      		YXHJFGC		4      
